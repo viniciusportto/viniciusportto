@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-w
   <a href="https://www.linkedin.com/in/vinicius-coelho-973319153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusPortto&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusPortto&theme=gotham)
   
   
   ##
